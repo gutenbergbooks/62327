@@ -1,27 +1,27 @@
 ﻿The Project Gutenberg eBook, Historical and descriptive sketches of the
-town and soke of Horncastle, by George Weir, Illustrated by Thomas Espin
+town and soke of Horncastle in the county of Lincoln and several places
+adjacent, by George Weir
 
 
 This eBook is for the use of anyone anywhere in the United States and most
 other parts of the world at no cost and with almost no restrictions 
-whatsoever. You may copy it, give it away or re-use it under the terms of
+whatsoever.  You may copy it, give it away or re-use it under the terms of
 the Project Gutenberg License included with this eBook or online at 
-www.gutenberg.org. If you are not located in the United States, you'll have
+www.gutenberg.org.  If you are not located in the United States, you'll have
 to check the laws of the country where you are located before using this ebook.
 
 
 
 
 Title: Historical and descriptive sketches of the town and soke of Horncastle
-       in the county of Lincoln and several places adjacent [1822]
+       in the county of Lincoln and several places adjacent
 
 
 Author: George Weir
 
 
 
-Release Date: December 31, 2020  [eBook #62327]
-[This file was first posted on June 5, 2020]
+Release Date: June 5, 2020  [eBook #62327]
 
 Language: English
 
@@ -29,11 +29,14 @@ Character set encoding: UTF-8
 
 
 ***START OF THE PROJECT GUTENBERG EBOOK HISTORICAL AND DESCRIPTIVE
-SKETCHES OF THE TOWN AND SOKE OF HORNCASTLE***
+SKETCHES OF THE TOWN AND SOKE OF HORNCASTLE IN THE COUNTY OF LINCOLN AND
+SEVERAL PLACES ADJACENT***
 
 
 Transcribed from the 1822 Sherwood, Neely, And Jones edition by David
-Price.
+Price, email ccx074@pglaf.org
+
+                   [Picture: Public domain book cover]
 
   [Picture: Remains of the Roman Wall, Horncastle.  Drawn by Tho.s Espin
                                  F.S.A.]
@@ -111,51 +114,51 @@ August 15, 1822.
 
 CONTENTS.
 
-HORNCASTLE       Situation                                      Page 1
-                 During the Roman and Saxon Governments              3
-                 The Manor                                           6
-                 During the Civil Wars in the Reign of              10
-                 Charles the First
-                 Antiquities                                        22
-                 The Church                                         26
-                 The Grammar School                                 33
-                 The River Bane and Navigable Canal                 35
-                 The Present State of the Town, Fairs,              37
-                 Markets, &c.
+HORNCASTLE,       Situation                                     Page 1
+                  During the Roman and Saxon Governments             3
+                  The Manor                                          6
+                  During the Civil Wars in the Reign of             10
+                  Charles the First
+                  Antiquities                                       22
+                  The Church                                        26
+                  The Grammar School                                33
+                  The River Bane and Navigable Canal                35
+                  The Present State of the Town, Fairs,             37
+                  Markets, &c.
 SOKE OF HORNCASTLE                                                  41
-                 Thimbleby                                          41
-                 West Ashby                                         42
-                 Low Tointon                                        42
-                 High Tointon                                       43
-                 Mareham on the Hill                                43
-                 Roughton                                           44
-                 Haltham                                            44
-                 Wood Enderby                                       46
-                 Moorby                                             46
-                 Wilksby                                            46
-                 Mareham le Fen                                     46
-                 Coningsby                                          47
-                 Langriville and Thornton le Fen                    50
-                 Population                                         51
+                  Thimbleby                                         41
+                  West Ashby                                        42
+                  Low Tointon                                       42
+                  High Tointon                                      43
+                  Mareham on the Hill                               43
+                  Roughton                                          44
+                  Haltham                                           44
+                  Wood Enderby                                      46
+                  Moorby                                            46
+                  Wilksby                                           46
+                  Mareham le Fen                                    46
+                  Coningsby                                         47
+                  Langriville and Thornton le Fen                   50
+                  Population                                        51
 BAUMBER                                                             53
 EDLINGTON                                                           55
 TUPHOLME                                                            57
 SOMERSBY                                                            59
 SCRIVELSBY                                                          61
-BOLINGBROKE      Situation                                          66
-                 The Manor                                          66
-                 The Castle                                         69
-                 The Church                                         71
-                 The Town                                           72
+BOLINGBROKE,      Situation                                         66
+                  The Manor                                         66
+                  The Castle                                        69
+                  The Church                                        71
+                  The Town                                          72
 REVESBY                                                             74
-                 Memoir of the Right Hon. Sir Joseph                76
-                 Banks, Bart.
-KIRKSTEAD                                                           81
-TATTERSHALL      Situation                                          84
-                 The Manor                                          84
-                 The Castle                                         86
-                 The Collegiate Church                              89
-                 The Town                                           95
+                  Memoir of the Right Hon. Sir Joseph               76
+                  Banks, Bart.
+KIRKSTEAD,                                                          81
+TATTERSHALL,      Situation                                         84
+                  The Manor                                         84
+                  The Castle                                        86
+                  The Collegiate Church                             89
+                  The Town                                          95
 TOWER ON THE MOOR                                                   96
 GEOLOGY AND NATURAL HISTORY                                         97
 
@@ -337,7 +340,7 @@ king in his contention with the Empress Maud, he seized her lands, but
 restored them again on condition that she should demolish her castle, the
 means which had served to render her political alliance formidable to his
 interest. {6c}  What may have been the extent and nature of the structure
-possessed as the mansion of Adelias is not now discoverable, no traces
+possessed as the mansion of Adclias is not now discoverable, no traces
 being to be found; but its strength most probably consisted in a
 restoration of the walls of the Roman fortress, which encircling some
 convenient and less durable edifice, gave to the place of her residence
@@ -1083,7 +1086,7 @@ under them the following inscription:
     seizing the Arch-rebel in the bloody skirmish near Winceby, October
     the 6th, A.D. 1643. {29}
 
-    “—nec tumultum
+    “—nee tumultum
     Nec mori per vim metuit, tenente
     Cæsare terras.
 
@@ -1111,67 +1114,67 @@ walls.
 
 At the end of the north aisle of the chancel, is the following table:
 
-    The BENEFACTORS to the CHURCH and POOR of this Town, the Clauses of
+    “The BENEFACTORS to the CHURCH and POOR of this Town, the Clauses of
     whose Wills may be seen at large in a Book in the Town Chest.  Note
     these Tables were erected 1724.
 
-               WILLIAM EVERITT and JOSEPH BROWN Churchwardens.
+               “WILLIAM EVERITT and JOSEPH BROWN Churchwardens.
 
-    Anno 1611, October.  Mr. Robert Clark of Woodhall gave to the Poor of
-    this town . . .  Shillings a year, to be paid to vicar on St
+    “Anno 1611, October.  Mr. Robert Clark of Woodhall gave to the Poor
+    of this town . . .  Shillings a year, to be paid to vicar on St
     Thomas’s, and by him to be distributed every Christmas-day for ever,
     out of his lands in Thimbleby, now belonging to John Hutchinson,
     Gent.
 
-    Mrs Ann Smith gave to the poor of Horncastle twenty shillings a year
+    “Mrs Ann Smith gave to the poor of Horncastle twenty shillings a year
     out of her lands there, now in the possession of Mr. Thomas Coats: it
     is given in brown bread every Good Friday.
 
-    George Acham of Asterby, Gent. gave also one hundred and forty
+    “George Acham of Asterby, Gent. gave also one hundred and forty
     pounds, to purchase lands, the rents thereof to be disposed off
     yearly to the poor of Horncastle, at the discretion of the governors
     of the free-school (for the time being,) which lands are in the
     parish of Burgh in the Marsh.
 
-    Anno 1629 May the 2d.  Mr. William Hurtscroft gave one house the
+    “Anno 1629 May the 2d. Mr. William Hurtscroft gave one house the
     yearly rent of fifty-two shillings; to be given weekly (viz.) twelve
     pence in bread every Lord’s day to poor fatherless and motherless
     children in Horncastle, by the Overseers for the poor; the said house
     now in the possession of widow Scamon.
 
-    The same year.  Andrew Kent, gent. gave six pounds thirteen shillings
-    and fourpence, to be a stock for the poor of Horncastle, which is
-    applied accordingly in coals for their use.
+    “The same year.  Andrew Kent, gent. gave six pounds thirteen
+    shillings and fourpence, to be a stock for the poor of Horncastle,
+    which is applied accordingly in coals for their use.
 
-    Anno 1661, June the 6th.  Thomas Bromley of Conesby gent, left to the
-    poor of this town forty shillings per annum (viz.) twenty shillings
-    every good Friday, and twenty every St. Thomas’s day, to be paid out
-    of his lands in Haltham super Bane; now the said lands belong to
-    Thomas Hammerton gent.
+    “Anno 1661, June the 6th.  Thomas Bromley of Conesby gent, left to
+    the poor of this town forty shillings per annum (viz.) twenty
+    shillings every good Friday, and twenty every St. Thomas’s day, to be
+    paid out of his lands in Haltham super Bane; now the said lands
+    belong to Thomas Hammerton gent.
 
-    Rutland Snowden, gent. gave to the poor of Horncastle one house of
+    “Rutland Snowden, gent. gave to the poor of Horncastle one house of
     the yearly rent of twenty-six shillings; but being decayed is now
     reduced to thirteen, paid in bread sixpence every other Sunday: the
     said house belongs now to Mr. William Dawson.
 
-    Anno 1673, December the 5th.  Thomas James, gent. gave to the poor of
-    Horncastle twenty shillings yearly in white bread on every Christmas
-    day for ever payable out of his lands there, which lands are now the
-    estate of Thomas Howgrave, Esquire.
+    “Anno 1673, December the 5th.  Thomas James, gent. gave to the poor
+    of Horncastle twenty shillings yearly in white bread on every
+    Christmas day for ever payable out of his lands there, which lands
+    are now the estate of Thomas Howgrave, Esquire.
 
-    Anno 1702, December the 20th.  Captain John Francis gave two chaldern
-    of coals yearly to be given to the poor, appointed by the governors
-    of the school, out of lands in this town now the Rev. Mr. John
-    Francis’s of Sibsey.
+    “Anno 1702, December the 20th.  Captain John Francis gave two
+    chaldern of coals yearly to be given to the poor, appointed by the
+    governors of the school, out of lands in this town now the Rev. Mr.
+    John Francis’s of Sibsey.
 
-    Anno 1703, December the 14th.  Mrs Douglass Tyrwhitt of Gaiton on the
-    would gave ten shillings yearly to the poor of Horncastle on St.
-    Thomas’s day, out of her lands in Belshford, now the lands of Joseph
+    “Anno 1703, December the 14th.  Mrs Douglass Tyrwhitt of Gaiton on
+    the would gave ten shillings yearly to the poor of Horncastle on St.
+    Thomas’s day, out of her lands in Belshlord, now the lands of Joseph
     Sutton of the same.
 
-    Anno 1696, May the 26th.  Nicholas Shipley, gent. gave to this church
-    one brass candlestick of twenty-four sockets, and Fox’s three books
-    of martyrs.  He gave also to the poor five pounds, which was
+    “Anno 1696, May the 26th.  Nicholas Shipley, gent. gave to this
+    church one brass candlestick of twenty-four sockets, and Fox’s three
+    books of martyrs.  He gave also to the poor five pounds, which was
     immediately given amongst them, and thirty shillings yearly for ever,
     (viz.) twenty on St. Thomas’s day, and ten every good Friday, in
     brown bread, to be paid out of his lands adjoining to this church
@@ -1182,18 +1185,18 @@ At the end of the north aisle of the chancel, is the following table:
     this misfortune doth not lessen the charity of that well disposed
     gentleman.
 
-    Anno 1719.  Mrs. Mary Hussey, widdow, gave one silver plate to the
+    “Anno 1719 Mrs. Mary Hussey, widdow, gave one silver plate to the
     communion table for ever.
 
-    Anno 1721.  Mrs. Dorothy Parker of Boston, gave to this church one
+    “Anno 1721.  Mrs. Dorothy Parker of Boston, gave to this church one
     brass candlestick of sixteen sockits, and to the poor widdows and
     widdowers of this town she gave sixty pounds, the interest or rents
     thereof to be given amongst them on St. John’s day, in Christmas, and
     St. James’s in July, yearly for ever.
 
-    Anno 1724.  Mrs Mary Waters, widdow, gave to the overseers of the
+    “Anno 1724.  Mrs Mary Waters, widdow, gave to the overseers of the
     poor, five pounds, to be by them put out at interest, and the said
-    interest to be given to the poor yearly on Christmas day for ever.
+    interest to be given to the poor yearly on Christmas day for ever.”
 
 Against the wall over the north entrance are several scythes and hay
 knives, some of which are yet remaining in the shafts to which they have
@@ -1439,7 +1442,7 @@ from every part of the kingdom, to the number of many thousands; and
 beside the most extensive dealers of this country, there are to be found
 in the fair purchasers and dealers from different parts of the continent
 of Europe, and even from America.  The third fair, which is held on the
-twenty-eighth and twenty-ninth days of October, was removed to this place
+twenty-eight and twenty-ninth days of October, was removed to this place
 in 1768, from Market-Stainton, a decayed market town, about eight miles
 distant, two hundred pounds being given to the lord of the manor of that
 place, to permit the removal, one half of this sum was raised by
@@ -1662,7 +1665,7 @@ has in its pristine state possessed a considerable share of architectural
 merit.  A large window at the eastern end contains very fine tracery, and
 at one time, together with some of the other windows, exhibited a large
 portion of stained glass, of which only one piece, containing the arms of
-La Warre, is now remaining. {45}  The rectory, united to that of Roughton
+La Wane, is now remaining. {45}  The rectory, united to that of Roughton
 in 1741, is in the presentation of the lord of the manor.
 
 
@@ -1713,7 +1716,7 @@ simplicities of an English garden, such objects of curiosity as a
 pleasurable recollection of those scenes had furnished.  In addition to
 numerous rustic and ornamental seats, the gardens are embellished with
 huts resembling those of Terra del Fuego and New Holland; and also a
-small museum of curiosities, principally from the South Sea islands.  A
+small museum of curiosites, principally from the South Sea islands.  A
 visit to this spot is always an agreeable recreation.  The following
 lines were written after a visit here, by a native of Jamaica.
 
@@ -1992,7 +1995,7 @@ and under the figure this inscription:
     yeare of our Lord 1612 being abovt the age of 73 yeares.”
 
 The shield contains these arms:—1. Two lioncels statant guardant in pale.
-2. Quarterly, 1 and 4, Barry of six; 2 and 3 A bend.  3. Three shackle
+2. Quarterly, 1 and 4, Barry of six; 2 and 3 A bond.  3. Three shackle
 bolts.  4. A mullet between three crescents, a dexter canton.  On the
 fesse point a rose for difference.
 
@@ -2031,7 +2034,7 @@ SCRIVELSBY.
 
 
 ABOUT two miles south of Horncastle, on the road leading from that place
-to Boston, stands the village of Scrivelsby, which is included in the
+to Boson, stands the village of Scrivelsby, which is included in the
 Hundred of Gartree.
 
 At the time of compiling the Domesday survey, it appears that part of
@@ -2429,7 +2432,7 @@ REVESBY is situated at the distance of six miles south from Horncastle,
 on the road from that place to Boston, and is included in the soke of
 Bolingbroke.
 
-What now constitutes the parish of Revesby, appears formerly to have been
+What now constitues the parish of Revesby, appears formerly to have been
 three distinct manors, Revesby, Thoresby, and Seithesby; the greater part
 of which was the property of William de Romara, Earl of Lincoln.  In the
 year 1142 he founded a Cistertian monastery at this place, and previous
@@ -2478,7 +2481,7 @@ At the east end of the chancel is a tablet containing this inscription:
     “Dedicated to the Memmorie of NEHEMIAH RAWSON, Esq.  A Member of this
     Common Wealth, and a Justice of Peace.  Hee Married Frances the
     Daughter of Thomas Knightley of Brough Hall in the County of
-    Stafford, Esq.  By Whoome hee had Issue Six Daughters, Elizabeth
+    Stafford, Esq.  By Whoome hee had Issue Sir Daughters, Elizabeth
     Married to Richard Parkes of Lutton, Gent.  Hanna to Theophilus Hartt
     of Birkwood Esq.  Abigal to Daniell Hartt of London Grocer, Sarah,
     Rebecca and Mary, Dyed Younge, he Departed this Life in January 1657.
@@ -2524,7 +2527,7 @@ inscription:
 
     “Liberos vidit adultos Josephum et Mariam Quorum hanc Dno Francisco
     Whichcote Barnto. nuptam, Patre superstite præpropera mors abripuit;
-    Optimo Parenti superstes Ille.
+    Optimo Parenti superstes Itle.
 
                                  M. H. P. C.”
 
@@ -2734,12 +2737,12 @@ benefactors, and acquired very extensive possessions.
 At the dissolution of religious houses, the Kirkstead estate was given by
 Henry the eighth, to Charles Duke of Suffolk; and on the division of his
 estates after the death of his two sons, who survived him but a short
-time, it reverted to the king as one of the heirs general of the family,
+time, it reverted to the king at one of the heirs general of the family,
 and was subsequently given to Lord Clinton and Saye, afterwards Earl of
 Lincoln.  This estate descended to Mr. Daniel Disney, in right of his
 wife Catherine, the youngest daughter of Henry Fynes Clinton, Esquire,
 and grand-daughter of the second Earl of Lincoln.  In the year 1792 it
-was sold by Mr. Disney Fytch, grandson of Mr. Daniel Disney, to the
+was sold by Mr. Disney Fytch, grand-son of Mr. Daniel Disney, to the
 present possessor, Richard Ellison, Esquire, of Sudbroke Holme, near
 Lincoln.
 
@@ -3126,7 +3129,7 @@ saints, and under them the following inscription in black letter:
     “Hic jacet nobilis Baro Radulphus Cromwell Miles D’ns Cromwell quo’dm
     Thesaurarius Anglie et fundator hujus Collegii cum inclita consorte
     sua Margareta una herede d’ni Dayncourt qui quid’m Radulphus obiit
-    quarto die mens. Januarij Anno d’ni Mill’o cccclv.  Et p’dicta
+    quarto die mens Januarij Anno d’ni Mill’o cccclv.  Et p’dicta
     Margareta obiit xv die Septe’br Anno d’ni mill’io ccccliij Quor’
     A’iab’ pp’ietur Deus Amen.”
 
@@ -3163,14 +3166,14 @@ memory of William Moor, the second provost of this college:
     Hic Eboracensis fuit eccl’ie cathedralis
     Sacre Scripture baccalaurius arte p’batus
     Octobris dena mensis cu’ luce novena
-    Mil’ d’ni C quater I sexto continuat’
+    Mil’ d’ni C quater 1 sexto continuat’
 
     Moor micuit more mitis bene morigerat’
     Prudens p’positus et egenis semp’ habundus
     Canonicus Rector et de ledenham specialis
     Jam sub tellure fit vermibus esca paratus
     Mente pia morit’ cujus corpus sepelitur
-    S’pus in celis ejus sine fine locatur.”
+    S’pus in celis ejus sine fine locator.”
 
 A brass figure of a priest, about five feet long, with the figure of the
 deity on his breast, and several saints down his robe, is now loose in
@@ -3593,23 +3596,23 @@ Dugdale vol. ii. p. 336.  Monast. Ang. vol. ii p. 646 a n. 50.
 
 {6c}  Dugdale’s Baronage, p. 39.
 
-{6d}  Hund. Rot. 19.  Hornc. Wap.
+{6d}  Hund. Rot. 19.  Horne. Wap.
 
 {7a}  On the eastern boundary of the parish is a place called _Hangman’s
 Corner_, where those convicted of capital offences in the court of the
 manor were executed.
 
-{7b}  Cart. Rot. 14 et 15. H.3.
+{7b}  Cart. Rot. 14 et 15. H.S.
 
 {7c}  Hund. Rot. ut antea.
 
-{7d}  Mag. Rot. 17. H.3.
+{7d}  Mag. Rot. 17. H.S.
 
 {8a}  Cart. Rot 18.  Ed. 1. m. 39 12.  Ed. 2 no. 17.
 
 {8b}  Pat. 14 Ric. 2. pars. 1 m. 3.
 
-{8c}  Cart. Rot. 25 H. 6.
+{8c}  Cart. Rot. 25 H.S.
 
 {8d}  Parliamentary Survey, made in the years 1647 and 1648.
 
@@ -3678,7 +3681,7 @@ old inhabitants of the town.
 
 {21}  It is said accompanied by Sir William Widdrington.  Rapin.
 
-{22}  Dr. Stukeley has incorrectly described this fortress as a complete
+{22}  Dr. Stukely has incorrectly described this fortress as a complete
 parallelogram: Gough, too has erroneously stated it to have enclosed
 twenty acres.
 
@@ -3706,7 +3709,7 @@ at that time in this church, not a vestige of which is now remaining.
 
                         _In Fenestra Insulæ borealis_.
 
-    Orate pro a’ia Thomæ Coppuldike Armig. & D’næ Margaretæ Consortis suæ
+    Orate pro a’ia Thomæ Coppuldike Armig & D’næ Margaretæ Consortis suæ
     fundatoris Gildæ Cantar . . . Fenestram fieri fecit Ano Dni. 1526.
 
               _In superiori Fenestra boreali Cancelli_.
@@ -3719,6 +3722,7 @@ G. a Crosse sarcely Arg.                                Beke.
 Orate pro benefactoribus artis sutorum, qui istam Fenestram fieri
 fecerunt sc’æ Nenianæ cum sera et catena.  Item sc’i Crispinus &
 Crispinianus cum instruments Calcearis.
+
                     _Fenestræ borealis superius_.
 Empaled.  Sa. 2 lyons passant arg. crowned or           Dymoke.
 Empaled.  Or a lyon ramp. double queue sa.              Welles.
@@ -3861,7 +3865,7 @@ Rochfort with an eagle displayed in the 2d quarter   Rochford.
 arg.
 Arg. fretty of 6 pieces G. a canton ermyne
                     _In Fenestra borealis Navis_.
-G. crosse crucilly fitchy a lyon rampant arg.        La Warre.
+G. crosse crncilly fitchy a lyon rampant arg.        La Warre.
 Arg. on a bend G. 3 gryphons heads erased or
                            _In Campanili_.
 
@@ -3928,6 +3932,7 @@ Conningsby sc’am formam evidentiæ suæ distribuendorum.
 This charity hath ceased for many yeares, the evidence having been
 sacrilegiously stolne out of that monument within the wall, as by the
 loosening of the plate of brasse may appeare.
+
             _In Fenestra Occidentali Capellæ Orientalis_.
 Orate pro a’iabus . . . Hatcliffe . . . Uxis suæ     Fenestram.
 Sa. 3 welles arg. bis                                Wellis.
@@ -3941,6 +3946,7 @@ B. 2 bars d’or over all a lyon rampant G.            Hattecliffe.
 Orate pro bono statu H. Wellis notoria publici . . . Hatcliffe uxoris
 suæ et sequelis eorum . . . hanc fenestram fieri fecerunt A’no D’ni
 1460.
+
                _In superioribus Fenestris Borealibus_.
 G. a cinquefoil peirced betw. 8 crosse crosselets    Umframville.
 d’or
@@ -4020,7 +4026,7 @@ Empaled.  Marmyon
 Verry a fesse G.                                        Marmyon.
 Or a lyon rampant double queue sa.                      Welles.
 Empaled.  A coate defaced
-Empaled.  Welles
+Enpaled.  Welles.
 Empaled. Verry a fesse G.
 Empaled.  B. a manehe d’or
 
@@ -4033,7 +4039,7 @@ Empaled.  B. a manehe d’or
 
                            _In the other Windowes_.
 
-Barry of 6 ermyne and G. 3 crescents sa.                Waterton.
+Barry of 6 ermyne and G. 3 csescents sa.                Waterton.
 Quarterly Ufford & Beke                                 Willughby.
 Verry a fesse G.                                        Marmyon.
 Ermyne 5 fusils in fesse G.                             Hebden.
@@ -4100,11 +4106,11 @@ G. 4 fusils in fesse arg. a border engrailed or   Nevill.
 {61a}  Domesday, folio 331.
 
 {61b}  In the forty-second and forty-third years of Henry the third,
-Philip Marmyon had grants of a market, fair, and free warren, at his
-manor of Scrivelsby.  In the ninth year of Edward the first, he showed
-that he had those rights, and that of gallows at Scrivelsby, with the
-other privileges incident to one of the great barons of the realm; and
-also right of free warren in the soke of Horncastle.
+Philip Marmyon had grams of a market, fair, and free warren, at his manor
+of Scrivelsby.  In the ninth year of Edward the first, he showed that he
+had those rights, and that of gallows at Scrivelsby, with the other
+privileges incident to one of the great barons of the realm; and also
+right of free warren in the soke of Horncastle.
 
 {62}  On account of the present possessor of the manor of Scrivelsby
 being a clerk in orders, his son, Henry Dymoke, Esquire, was allowed to
@@ -4203,7 +4209,7 @@ following description of this castle:—
     within the walls conteyning about an acre and a half, the building is
     very uniforme.
 
-    “It hath 4 stronge forts or ramparts, wherein are many roomes, and
+    “It hath 4 strongc forts or ramparts, wherein are many roomes, and
     lodgings: the passage from one to another lying upon the walles,
     which are embattled about.  There be likewise 2 watch-towers all
     covered with lead.  If all the roomes in it were repayred, and
@@ -4380,11 +4386,11 @@ which are now gone:
     The history of Cosdre with his decollation.
 
                   _In Fenestris ex latere Australi_.
-Arg. a chiefe G. surtout a bend B.        Crumwell.
+Arg. a chiefe G surtout a bend B.         Crumwell.
 Quarterly.  Crumwell with chequy d’or     Tateshale.
 and G. a chiefe ermyne
 G. a lyon rampant d’or                    Fitz-Alane.
-Arg. 3 cinquefoyles and a canton          Driby.
+Arg 3 cinquefoyles and a canton           Driby.
 Bendy of 10 pieces arg. and G.
 Ermyne a fesse G.                         Bernake.
 B. a fesse daunce betw: 10 billets d’or   Deyncourt.
@@ -4392,7 +4398,7 @@ G. 10 annulets d’or
 Chequy d’or and G. a bend ermyne          Clifton.
 Quarterly.—Crumwell and Tateshall
 Empaled.  Arg. a chiefe G. surtout a      Crumwell.
-bend B.
+bend B
 Empaled.  Arg. a chevron B. a file with
 3 lambeaux d’or
 Barry of 6 arg. and B. a bend G.          Grey of Rotherfield.
@@ -4411,10 +4417,10 @@ Arg: 3 water-pots covered G. a border     Monboucher.
 sa. bezanty                               [ut opinor.]
 Empaled.  Arg. a chiefe G. over all a
 bend B.
-Empaled.  Party p, pale G. & sa. a lyon
+Empaled.  Party p pale G & sa. a lyon
 rampant arg. crowned d’or
-Arg. a chevron betw: 3 pots covered G.
-a border sa. bezanty
+Arg. a chevron betw: 3 pots covered G a
+border sa. bezanty
 Arg. a chiefe G. surtout a bend B. a
 labell of 3 d’or
 Barry of 6 arg. and G. a bend engrayled
@@ -4452,7 +4458,7 @@ lillies arg.                              Ep’us Wint.
 
     Hic jacet Thomas Gibbon Artium Liberalium M’gr. Rector nuper de
     Wiberton Socius & precentor hujus collegij qui obijt 16º. die mensis
-    Januarij An’o D’ni 1506 cujus &c.
+    January An’o D’ni 1506 cujus &c.
 
                                   _Another_.
 
@@ -4465,7 +4471,7 @@ lillies arg.                              Ep’us Wint.
     Hic jacet Edwardus Okey nup. unus sex clericorum hujus Collegij qui
     obijt 29 die Januarij An’o D’ni 1519, cujus &c.
 
-                            _In Insula Australi_.
+                            _In Insula Australia_.
 
     Hic jacet Ric’us English artium liberalium Mgr. socius ac p’centor
     huj. Collegij & Vicarius Eccl’iæ de Burwell qui obijt 27º. die Martij
@@ -4497,9 +4503,9 @@ lillies arg.                              Ep’us Wint.
                       _The Armes on the Gravestone are_
 
     Empaled.  A chevron betw. 3 boares heades couped, having so many
-    pomeis in their mouths; on the chevron a cresc . . . Hevyn
+    pomeis in their mouths; on the chevron a cresc. . . . Hevyn
 
-    Empaled.  A chevron betw. 3 bulls heades . . . Hevyn
+    Empaled.  A chevron betw. 3 bulls heades.
 
                                         Harleian MS. No. 6829. p. 184–189.
 
@@ -4514,7 +4520,8 @@ vi. 58.
 
 
 ***END OF THE PROJECT GUTENBERG EBOOK HISTORICAL AND DESCRIPTIVE SKETCHES
-OF THE TOWN AND SOKE OF HORNCASTLE***
+OF THE TOWN AND SOKE OF HORNCASTLE IN THE COUNTY OF LINCOLN AND SEVERAL
+PLACES ADJACENT***
 
 
 ******* This file should be named 62327-0.txt or 62327-0.zip *******
