@@ -1,42 +1,7 @@
-﻿The Project Gutenberg eBook, Historical and descriptive sketches of the
-town and soke of Horncastle in the county of Lincoln and several places
-adjacent, by George Weir
-
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions 
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at 
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-
-
-
-Title: Historical and descriptive sketches of the town and soke of Horncastle
-       in the county of Lincoln and several places adjacent
-
-
-Author: George Weir
-
-
-
-Release Date: June 5, 2020  [eBook #62327]
-
-Language: English
-
-Character set encoding: UTF-8
-
-
-***START OF THE PROJECT GUTENBERG EBOOK HISTORICAL AND DESCRIPTIVE
-SKETCHES OF THE TOWN AND SOKE OF HORNCASTLE IN THE COUNTY OF LINCOLN AND
-SEVERAL PLACES ADJACENT***
-
+*** START OF THE PROJECT GUTENBERG EBOOK 62327 ***
 
 Transcribed from the 1822 Sherwood, Neely, And Jones edition by David
-Price, email ccx074@pglaf.org
-
-                   [Picture: Public domain book cover]
+Price.
 
   [Picture: Remains of the Roman Wall, Horncastle.  Drawn by Tho.s Espin
                                  F.S.A.]
@@ -114,51 +79,51 @@ August 15, 1822.
 
 CONTENTS.
 
-HORNCASTLE,       Situation                                     Page 1
-                  During the Roman and Saxon Governments             3
-                  The Manor                                          6
-                  During the Civil Wars in the Reign of             10
-                  Charles the First
-                  Antiquities                                       22
-                  The Church                                        26
-                  The Grammar School                                33
-                  The River Bane and Navigable Canal                35
-                  The Present State of the Town, Fairs,             37
-                  Markets, &c.
+HORNCASTLE       Situation                                      Page 1
+                 During the Roman and Saxon Governments              3
+                 The Manor                                           6
+                 During the Civil Wars in the Reign of              10
+                 Charles the First
+                 Antiquities                                        22
+                 The Church                                         26
+                 The Grammar School                                 33
+                 The River Bane and Navigable Canal                 35
+                 The Present State of the Town, Fairs,              37
+                 Markets, &c.
 SOKE OF HORNCASTLE                                                  41
-                  Thimbleby                                         41
-                  West Ashby                                        42
-                  Low Tointon                                       42
-                  High Tointon                                      43
-                  Mareham on the Hill                               43
-                  Roughton                                          44
-                  Haltham                                           44
-                  Wood Enderby                                      46
-                  Moorby                                            46
-                  Wilksby                                           46
-                  Mareham le Fen                                    46
-                  Coningsby                                         47
-                  Langriville and Thornton le Fen                   50
-                  Population                                        51
+                 Thimbleby                                          41
+                 West Ashby                                         42
+                 Low Tointon                                        42
+                 High Tointon                                       43
+                 Mareham on the Hill                                43
+                 Roughton                                           44
+                 Haltham                                            44
+                 Wood Enderby                                       46
+                 Moorby                                             46
+                 Wilksby                                            46
+                 Mareham le Fen                                     46
+                 Coningsby                                          47
+                 Langriville and Thornton le Fen                    50
+                 Population                                         51
 BAUMBER                                                             53
 EDLINGTON                                                           55
 TUPHOLME                                                            57
 SOMERSBY                                                            59
 SCRIVELSBY                                                          61
-BOLINGBROKE,      Situation                                         66
-                  The Manor                                         66
-                  The Castle                                        69
-                  The Church                                        71
-                  The Town                                          72
+BOLINGBROKE      Situation                                          66
+                 The Manor                                          66
+                 The Castle                                         69
+                 The Church                                         71
+                 The Town                                           72
 REVESBY                                                             74
-                  Memoir of the Right Hon. Sir Joseph               76
-                  Banks, Bart.
-KIRKSTEAD,                                                          81
-TATTERSHALL,      Situation                                         84
-                  The Manor                                         84
-                  The Castle                                        86
-                  The Collegiate Church                             89
-                  The Town                                          95
+                 Memoir of the Right Hon. Sir Joseph                76
+                 Banks, Bart.
+KIRKSTEAD                                                           81
+TATTERSHALL      Situation                                          84
+                 The Manor                                          84
+                 The Castle                                         86
+                 The Collegiate Church                              89
+                 The Town                                           95
 TOWER ON THE MOOR                                                   96
 GEOLOGY AND NATURAL HISTORY                                         97
 
@@ -340,7 +305,7 @@ king in his contention with the Empress Maud, he seized her lands, but
 restored them again on condition that she should demolish her castle, the
 means which had served to render her political alliance formidable to his
 interest. {6c}  What may have been the extent and nature of the structure
-possessed as the mansion of Adclias is not now discoverable, no traces
+possessed as the mansion of Adelias is not now discoverable, no traces
 being to be found; but its strength most probably consisted in a
 restoration of the walls of the Roman fortress, which encircling some
 convenient and less durable edifice, gave to the place of her residence
@@ -1086,7 +1051,7 @@ under them the following inscription:
     seizing the Arch-rebel in the bloody skirmish near Winceby, October
     the 6th, A.D. 1643. {29}
 
-    “—nee tumultum
+    “—nec tumultum
     Nec mori per vim metuit, tenente
     Cæsare terras.
 
@@ -1114,67 +1079,67 @@ walls.
 
 At the end of the north aisle of the chancel, is the following table:
 
-    “The BENEFACTORS to the CHURCH and POOR of this Town, the Clauses of
+    The BENEFACTORS to the CHURCH and POOR of this Town, the Clauses of
     whose Wills may be seen at large in a Book in the Town Chest.  Note
     these Tables were erected 1724.
 
-               “WILLIAM EVERITT and JOSEPH BROWN Churchwardens.
+               WILLIAM EVERITT and JOSEPH BROWN Churchwardens.
 
-    “Anno 1611, October.  Mr. Robert Clark of Woodhall gave to the Poor
-    of this town . . .  Shillings a year, to be paid to vicar on St
+    Anno 1611, October.  Mr. Robert Clark of Woodhall gave to the Poor of
+    this town . . .  Shillings a year, to be paid to vicar on St
     Thomas’s, and by him to be distributed every Christmas-day for ever,
     out of his lands in Thimbleby, now belonging to John Hutchinson,
     Gent.
 
-    “Mrs Ann Smith gave to the poor of Horncastle twenty shillings a year
+    Mrs Ann Smith gave to the poor of Horncastle twenty shillings a year
     out of her lands there, now in the possession of Mr. Thomas Coats: it
     is given in brown bread every Good Friday.
 
-    “George Acham of Asterby, Gent. gave also one hundred and forty
+    George Acham of Asterby, Gent. gave also one hundred and forty
     pounds, to purchase lands, the rents thereof to be disposed off
     yearly to the poor of Horncastle, at the discretion of the governors
     of the free-school (for the time being,) which lands are in the
     parish of Burgh in the Marsh.
 
-    “Anno 1629 May the 2d. Mr. William Hurtscroft gave one house the
+    Anno 1629 May the 2d.  Mr. William Hurtscroft gave one house the
     yearly rent of fifty-two shillings; to be given weekly (viz.) twelve
     pence in bread every Lord’s day to poor fatherless and motherless
     children in Horncastle, by the Overseers for the poor; the said house
     now in the possession of widow Scamon.
 
-    “The same year.  Andrew Kent, gent. gave six pounds thirteen
-    shillings and fourpence, to be a stock for the poor of Horncastle,
-    which is applied accordingly in coals for their use.
+    The same year.  Andrew Kent, gent. gave six pounds thirteen shillings
+    and fourpence, to be a stock for the poor of Horncastle, which is
+    applied accordingly in coals for their use.
 
-    “Anno 1661, June the 6th.  Thomas Bromley of Conesby gent, left to
-    the poor of this town forty shillings per annum (viz.) twenty
-    shillings every good Friday, and twenty every St. Thomas’s day, to be
-    paid out of his lands in Haltham super Bane; now the said lands
-    belong to Thomas Hammerton gent.
+    Anno 1661, June the 6th.  Thomas Bromley of Conesby gent, left to the
+    poor of this town forty shillings per annum (viz.) twenty shillings
+    every good Friday, and twenty every St. Thomas’s day, to be paid out
+    of his lands in Haltham super Bane; now the said lands belong to
+    Thomas Hammerton gent.
 
-    “Rutland Snowden, gent. gave to the poor of Horncastle one house of
+    Rutland Snowden, gent. gave to the poor of Horncastle one house of
     the yearly rent of twenty-six shillings; but being decayed is now
     reduced to thirteen, paid in bread sixpence every other Sunday: the
     said house belongs now to Mr. William Dawson.
 
-    “Anno 1673, December the 5th.  Thomas James, gent. gave to the poor
-    of Horncastle twenty shillings yearly in white bread on every
-    Christmas day for ever payable out of his lands there, which lands
-    are now the estate of Thomas Howgrave, Esquire.
+    Anno 1673, December the 5th.  Thomas James, gent. gave to the poor of
+    Horncastle twenty shillings yearly in white bread on every Christmas
+    day for ever payable out of his lands there, which lands are now the
+    estate of Thomas Howgrave, Esquire.
 
-    “Anno 1702, December the 20th.  Captain John Francis gave two
-    chaldern of coals yearly to be given to the poor, appointed by the
-    governors of the school, out of lands in this town now the Rev. Mr.
-    John Francis’s of Sibsey.
+    Anno 1702, December the 20th.  Captain John Francis gave two chaldern
+    of coals yearly to be given to the poor, appointed by the governors
+    of the school, out of lands in this town now the Rev. Mr. John
+    Francis’s of Sibsey.
 
-    “Anno 1703, December the 14th.  Mrs Douglass Tyrwhitt of Gaiton on
-    the would gave ten shillings yearly to the poor of Horncastle on St.
-    Thomas’s day, out of her lands in Belshlord, now the lands of Joseph
+    Anno 1703, December the 14th.  Mrs Douglass Tyrwhitt of Gaiton on the
+    would gave ten shillings yearly to the poor of Horncastle on St.
+    Thomas’s day, out of her lands in Belshford, now the lands of Joseph
     Sutton of the same.
 
-    “Anno 1696, May the 26th.  Nicholas Shipley, gent. gave to this
-    church one brass candlestick of twenty-four sockets, and Fox’s three
-    books of martyrs.  He gave also to the poor five pounds, which was
+    Anno 1696, May the 26th.  Nicholas Shipley, gent. gave to this church
+    one brass candlestick of twenty-four sockets, and Fox’s three books
+    of martyrs.  He gave also to the poor five pounds, which was
     immediately given amongst them, and thirty shillings yearly for ever,
     (viz.) twenty on St. Thomas’s day, and ten every good Friday, in
     brown bread, to be paid out of his lands adjoining to this church
@@ -1185,18 +1150,18 @@ At the end of the north aisle of the chancel, is the following table:
     this misfortune doth not lessen the charity of that well disposed
     gentleman.
 
-    “Anno 1719 Mrs. Mary Hussey, widdow, gave one silver plate to the
+    Anno 1719.  Mrs. Mary Hussey, widdow, gave one silver plate to the
     communion table for ever.
 
-    “Anno 1721.  Mrs. Dorothy Parker of Boston, gave to this church one
+    Anno 1721.  Mrs. Dorothy Parker of Boston, gave to this church one
     brass candlestick of sixteen sockits, and to the poor widdows and
     widdowers of this town she gave sixty pounds, the interest or rents
     thereof to be given amongst them on St. John’s day, in Christmas, and
     St. James’s in July, yearly for ever.
 
-    “Anno 1724.  Mrs Mary Waters, widdow, gave to the overseers of the
+    Anno 1724.  Mrs Mary Waters, widdow, gave to the overseers of the
     poor, five pounds, to be by them put out at interest, and the said
-    interest to be given to the poor yearly on Christmas day for ever.”
+    interest to be given to the poor yearly on Christmas day for ever.
 
 Against the wall over the north entrance are several scythes and hay
 knives, some of which are yet remaining in the shafts to which they have
@@ -1442,7 +1407,7 @@ from every part of the kingdom, to the number of many thousands; and
 beside the most extensive dealers of this country, there are to be found
 in the fair purchasers and dealers from different parts of the continent
 of Europe, and even from America.  The third fair, which is held on the
-twenty-eight and twenty-ninth days of October, was removed to this place
+twenty-eighth and twenty-ninth days of October, was removed to this place
 in 1768, from Market-Stainton, a decayed market town, about eight miles
 distant, two hundred pounds being given to the lord of the manor of that
 place, to permit the removal, one half of this sum was raised by
@@ -1665,7 +1630,7 @@ has in its pristine state possessed a considerable share of architectural
 merit.  A large window at the eastern end contains very fine tracery, and
 at one time, together with some of the other windows, exhibited a large
 portion of stained glass, of which only one piece, containing the arms of
-La Wane, is now remaining. {45}  The rectory, united to that of Roughton
+La Warre, is now remaining. {45}  The rectory, united to that of Roughton
 in 1741, is in the presentation of the lord of the manor.
 
 
@@ -1716,7 +1681,7 @@ simplicities of an English garden, such objects of curiosity as a
 pleasurable recollection of those scenes had furnished.  In addition to
 numerous rustic and ornamental seats, the gardens are embellished with
 huts resembling those of Terra del Fuego and New Holland; and also a
-small museum of curiosites, principally from the South Sea islands.  A
+small museum of curiosities, principally from the South Sea islands.  A
 visit to this spot is always an agreeable recreation.  The following
 lines were written after a visit here, by a native of Jamaica.
 
@@ -1995,7 +1960,7 @@ and under the figure this inscription:
     yeare of our Lord 1612 being abovt the age of 73 yeares.”
 
 The shield contains these arms:—1. Two lioncels statant guardant in pale.
-2. Quarterly, 1 and 4, Barry of six; 2 and 3 A bond.  3. Three shackle
+2. Quarterly, 1 and 4, Barry of six; 2 and 3 A bend.  3. Three shackle
 bolts.  4. A mullet between three crescents, a dexter canton.  On the
 fesse point a rose for difference.
 
@@ -2034,7 +1999,7 @@ SCRIVELSBY.
 
 
 ABOUT two miles south of Horncastle, on the road leading from that place
-to Boson, stands the village of Scrivelsby, which is included in the
+to Boston, stands the village of Scrivelsby, which is included in the
 Hundred of Gartree.
 
 At the time of compiling the Domesday survey, it appears that part of
@@ -2432,7 +2397,7 @@ REVESBY is situated at the distance of six miles south from Horncastle,
 on the road from that place to Boston, and is included in the soke of
 Bolingbroke.
 
-What now constitues the parish of Revesby, appears formerly to have been
+What now constitutes the parish of Revesby, appears formerly to have been
 three distinct manors, Revesby, Thoresby, and Seithesby; the greater part
 of which was the property of William de Romara, Earl of Lincoln.  In the
 year 1142 he founded a Cistertian monastery at this place, and previous
@@ -2481,7 +2446,7 @@ At the east end of the chancel is a tablet containing this inscription:
     “Dedicated to the Memmorie of NEHEMIAH RAWSON, Esq.  A Member of this
     Common Wealth, and a Justice of Peace.  Hee Married Frances the
     Daughter of Thomas Knightley of Brough Hall in the County of
-    Stafford, Esq.  By Whoome hee had Issue Sir Daughters, Elizabeth
+    Stafford, Esq.  By Whoome hee had Issue Six Daughters, Elizabeth
     Married to Richard Parkes of Lutton, Gent.  Hanna to Theophilus Hartt
     of Birkwood Esq.  Abigal to Daniell Hartt of London Grocer, Sarah,
     Rebecca and Mary, Dyed Younge, he Departed this Life in January 1657.
@@ -2527,7 +2492,7 @@ inscription:
 
     “Liberos vidit adultos Josephum et Mariam Quorum hanc Dno Francisco
     Whichcote Barnto. nuptam, Patre superstite præpropera mors abripuit;
-    Optimo Parenti superstes Itle.
+    Optimo Parenti superstes Ille.
 
                                  M. H. P. C.”
 
@@ -2737,12 +2702,12 @@ benefactors, and acquired very extensive possessions.
 At the dissolution of religious houses, the Kirkstead estate was given by
 Henry the eighth, to Charles Duke of Suffolk; and on the division of his
 estates after the death of his two sons, who survived him but a short
-time, it reverted to the king at one of the heirs general of the family,
+time, it reverted to the king as one of the heirs general of the family,
 and was subsequently given to Lord Clinton and Saye, afterwards Earl of
 Lincoln.  This estate descended to Mr. Daniel Disney, in right of his
 wife Catherine, the youngest daughter of Henry Fynes Clinton, Esquire,
 and grand-daughter of the second Earl of Lincoln.  In the year 1792 it
-was sold by Mr. Disney Fytch, grand-son of Mr. Daniel Disney, to the
+was sold by Mr. Disney Fytch, grandson of Mr. Daniel Disney, to the
 present possessor, Richard Ellison, Esquire, of Sudbroke Holme, near
 Lincoln.
 
@@ -3129,7 +3094,7 @@ saints, and under them the following inscription in black letter:
     “Hic jacet nobilis Baro Radulphus Cromwell Miles D’ns Cromwell quo’dm
     Thesaurarius Anglie et fundator hujus Collegii cum inclita consorte
     sua Margareta una herede d’ni Dayncourt qui quid’m Radulphus obiit
-    quarto die mens Januarij Anno d’ni Mill’o cccclv.  Et p’dicta
+    quarto die mens. Januarij Anno d’ni Mill’o cccclv.  Et p’dicta
     Margareta obiit xv die Septe’br Anno d’ni mill’io ccccliij Quor’
     A’iab’ pp’ietur Deus Amen.”
 
@@ -3166,14 +3131,14 @@ memory of William Moor, the second provost of this college:
     Hic Eboracensis fuit eccl’ie cathedralis
     Sacre Scripture baccalaurius arte p’batus
     Octobris dena mensis cu’ luce novena
-    Mil’ d’ni C quater 1 sexto continuat’
+    Mil’ d’ni C quater I sexto continuat’
 
     Moor micuit more mitis bene morigerat’
     Prudens p’positus et egenis semp’ habundus
     Canonicus Rector et de ledenham specialis
     Jam sub tellure fit vermibus esca paratus
     Mente pia morit’ cujus corpus sepelitur
-    S’pus in celis ejus sine fine locator.”
+    S’pus in celis ejus sine fine locatur.”
 
 A brass figure of a priest, about five feet long, with the figure of the
 deity on his breast, and several saints down his robe, is now loose in
@@ -3596,23 +3561,23 @@ Dugdale vol. ii. p. 336.  Monast. Ang. vol. ii p. 646 a n. 50.
 
 {6c}  Dugdale’s Baronage, p. 39.
 
-{6d}  Hund. Rot. 19.  Horne. Wap.
+{6d}  Hund. Rot. 19.  Hornc. Wap.
 
 {7a}  On the eastern boundary of the parish is a place called _Hangman’s
 Corner_, where those convicted of capital offences in the court of the
 manor were executed.
 
-{7b}  Cart. Rot. 14 et 15. H.S.
+{7b}  Cart. Rot. 14 et 15. H.3.
 
 {7c}  Hund. Rot. ut antea.
 
-{7d}  Mag. Rot. 17. H.S.
+{7d}  Mag. Rot. 17. H.3.
 
 {8a}  Cart. Rot 18.  Ed. 1. m. 39 12.  Ed. 2 no. 17.
 
 {8b}  Pat. 14 Ric. 2. pars. 1 m. 3.
 
-{8c}  Cart. Rot. 25 H.S.
+{8c}  Cart. Rot. 25 H. 6.
 
 {8d}  Parliamentary Survey, made in the years 1647 and 1648.
 
@@ -3681,7 +3646,7 @@ old inhabitants of the town.
 
 {21}  It is said accompanied by Sir William Widdrington.  Rapin.
 
-{22}  Dr. Stukely has incorrectly described this fortress as a complete
+{22}  Dr. Stukeley has incorrectly described this fortress as a complete
 parallelogram: Gough, too has erroneously stated it to have enclosed
 twenty acres.
 
@@ -3709,7 +3674,7 @@ at that time in this church, not a vestige of which is now remaining.
 
                         _In Fenestra Insulæ borealis_.
 
-    Orate pro a’ia Thomæ Coppuldike Armig & D’næ Margaretæ Consortis suæ
+    Orate pro a’ia Thomæ Coppuldike Armig. & D’næ Margaretæ Consortis suæ
     fundatoris Gildæ Cantar . . . Fenestram fieri fecit Ano Dni. 1526.
 
               _In superiori Fenestra boreali Cancelli_.
@@ -3722,7 +3687,6 @@ G. a Crosse sarcely Arg.                                Beke.
 Orate pro benefactoribus artis sutorum, qui istam Fenestram fieri
 fecerunt sc’æ Nenianæ cum sera et catena.  Item sc’i Crispinus &
 Crispinianus cum instruments Calcearis.
-
                     _Fenestræ borealis superius_.
 Empaled.  Sa. 2 lyons passant arg. crowned or           Dymoke.
 Empaled.  Or a lyon ramp. double queue sa.              Welles.
@@ -3865,7 +3829,7 @@ Rochfort with an eagle displayed in the 2d quarter   Rochford.
 arg.
 Arg. fretty of 6 pieces G. a canton ermyne
                     _In Fenestra borealis Navis_.
-G. crosse crncilly fitchy a lyon rampant arg.        La Warre.
+G. crosse crucilly fitchy a lyon rampant arg.        La Warre.
 Arg. on a bend G. 3 gryphons heads erased or
                            _In Campanili_.
 
@@ -3932,7 +3896,6 @@ Conningsby sc’am formam evidentiæ suæ distribuendorum.
 This charity hath ceased for many yeares, the evidence having been
 sacrilegiously stolne out of that monument within the wall, as by the
 loosening of the plate of brasse may appeare.
-
             _In Fenestra Occidentali Capellæ Orientalis_.
 Orate pro a’iabus . . . Hatcliffe . . . Uxis suæ     Fenestram.
 Sa. 3 welles arg. bis                                Wellis.
@@ -3946,7 +3909,6 @@ B. 2 bars d’or over all a lyon rampant G.            Hattecliffe.
 Orate pro bono statu H. Wellis notoria publici . . . Hatcliffe uxoris
 suæ et sequelis eorum . . . hanc fenestram fieri fecerunt A’no D’ni
 1460.
-
                _In superioribus Fenestris Borealibus_.
 G. a cinquefoil peirced betw. 8 crosse crosselets    Umframville.
 d’or
@@ -4026,7 +3988,7 @@ Empaled.  Marmyon
 Verry a fesse G.                                        Marmyon.
 Or a lyon rampant double queue sa.                      Welles.
 Empaled.  A coate defaced
-Enpaled.  Welles.
+Empaled.  Welles
 Empaled. Verry a fesse G.
 Empaled.  B. a manehe d’or
 
@@ -4039,7 +4001,7 @@ Empaled.  B. a manehe d’or
 
                            _In the other Windowes_.
 
-Barry of 6 ermyne and G. 3 csescents sa.                Waterton.
+Barry of 6 ermyne and G. 3 crescents sa.                Waterton.
 Quarterly Ufford & Beke                                 Willughby.
 Verry a fesse G.                                        Marmyon.
 Ermyne 5 fusils in fesse G.                             Hebden.
@@ -4106,11 +4068,11 @@ G. 4 fusils in fesse arg. a border engrailed or   Nevill.
 {61a}  Domesday, folio 331.
 
 {61b}  In the forty-second and forty-third years of Henry the third,
-Philip Marmyon had grams of a market, fair, and free warren, at his manor
-of Scrivelsby.  In the ninth year of Edward the first, he showed that he
-had those rights, and that of gallows at Scrivelsby, with the other
-privileges incident to one of the great barons of the realm; and also
-right of free warren in the soke of Horncastle.
+Philip Marmyon had grants of a market, fair, and free warren, at his
+manor of Scrivelsby.  In the ninth year of Edward the first, he showed
+that he had those rights, and that of gallows at Scrivelsby, with the
+other privileges incident to one of the great barons of the realm; and
+also right of free warren in the soke of Horncastle.
 
 {62}  On account of the present possessor of the manor of Scrivelsby
 being a clerk in orders, his son, Henry Dymoke, Esquire, was allowed to
@@ -4209,7 +4171,7 @@ following description of this castle:—
     within the walls conteyning about an acre and a half, the building is
     very uniforme.
 
-    “It hath 4 strongc forts or ramparts, wherein are many roomes, and
+    “It hath 4 stronge forts or ramparts, wherein are many roomes, and
     lodgings: the passage from one to another lying upon the walles,
     which are embattled about.  There be likewise 2 watch-towers all
     covered with lead.  If all the roomes in it were repayred, and
@@ -4386,11 +4348,11 @@ which are now gone:
     The history of Cosdre with his decollation.
 
                   _In Fenestris ex latere Australi_.
-Arg. a chiefe G surtout a bend B.         Crumwell.
+Arg. a chiefe G. surtout a bend B.        Crumwell.
 Quarterly.  Crumwell with chequy d’or     Tateshale.
 and G. a chiefe ermyne
 G. a lyon rampant d’or                    Fitz-Alane.
-Arg 3 cinquefoyles and a canton           Driby.
+Arg. 3 cinquefoyles and a canton          Driby.
 Bendy of 10 pieces arg. and G.
 Ermyne a fesse G.                         Bernake.
 B. a fesse daunce betw: 10 billets d’or   Deyncourt.
@@ -4398,7 +4360,7 @@ G. 10 annulets d’or
 Chequy d’or and G. a bend ermyne          Clifton.
 Quarterly.—Crumwell and Tateshall
 Empaled.  Arg. a chiefe G. surtout a      Crumwell.
-bend B
+bend B.
 Empaled.  Arg. a chevron B. a file with
 3 lambeaux d’or
 Barry of 6 arg. and B. a bend G.          Grey of Rotherfield.
@@ -4417,10 +4379,10 @@ Arg: 3 water-pots covered G. a border     Monboucher.
 sa. bezanty                               [ut opinor.]
 Empaled.  Arg. a chiefe G. over all a
 bend B.
-Empaled.  Party p pale G & sa. a lyon
+Empaled.  Party p, pale G. & sa. a lyon
 rampant arg. crowned d’or
-Arg. a chevron betw: 3 pots covered G a
-border sa. bezanty
+Arg. a chevron betw: 3 pots covered G.
+a border sa. bezanty
 Arg. a chiefe G. surtout a bend B. a
 labell of 3 d’or
 Barry of 6 arg. and G. a bend engrayled
@@ -4458,7 +4420,7 @@ lillies arg.                              Ep’us Wint.
 
     Hic jacet Thomas Gibbon Artium Liberalium M’gr. Rector nuper de
     Wiberton Socius & precentor hujus collegij qui obijt 16º. die mensis
-    January An’o D’ni 1506 cujus &c.
+    Januarij An’o D’ni 1506 cujus &c.
 
                                   _Another_.
 
@@ -4471,7 +4433,7 @@ lillies arg.                              Ep’us Wint.
     Hic jacet Edwardus Okey nup. unus sex clericorum hujus Collegij qui
     obijt 29 die Januarij An’o D’ni 1519, cujus &c.
 
-                            _In Insula Australia_.
+                            _In Insula Australi_.
 
     Hic jacet Ric’us English artium liberalium Mgr. socius ac p’centor
     huj. Collegij & Vicarius Eccl’iæ de Burwell qui obijt 27º. die Martij
@@ -4503,9 +4465,9 @@ lillies arg.                              Ep’us Wint.
                       _The Armes on the Gravestone are_
 
     Empaled.  A chevron betw. 3 boares heades couped, having so many
-    pomeis in their mouths; on the chevron a cresc. . . . Hevyn
+    pomeis in their mouths; on the chevron a cresc . . . Hevyn
 
-    Empaled.  A chevron betw. 3 bulls heades.
+    Empaled.  A chevron betw. 3 bulls heades . . . Hevyn
 
                                         Harleian MS. No. 6829. p. 184–189.
 
@@ -4516,370 +4478,4 @@ vi. 58.
 
 {98}  By some called _Bind_, by others _Clunch Clay_.
 
-
-
-
-***END OF THE PROJECT GUTENBERG EBOOK HISTORICAL AND DESCRIPTIVE SKETCHES
-OF THE TOWN AND SOKE OF HORNCASTLE IN THE COUNTY OF LINCOLN AND SEVERAL
-PLACES ADJACENT***
-
-
-******* This file should be named 62327-0.txt or 62327-0.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/6/2/3/2/62327
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org 
-
-Section 3. Information about the Project Gutenberg Literary 
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 62327 ***
